@@ -62,6 +62,8 @@
 - 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - A CNN‑based system to detect deepfake videos using visual feature analysis accelerated by ROSIE.
 - 👀 **[Observer Pattern](https://github.com/boyeaalhagie/Milwaukee-tour)** - A travel game using the Observer Pattern, drawing cars, buses, and a person moving on a map, where contact triggers license-plate letter matching to keywords
 
+### **"Models learn patterns. People live consequences."**
+
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://boyealhagie.com)
