@@ -1,7 +1,7 @@
 # Hi, I'm Alhagie 👋
 
 *Applied AI Engineer & Machine Learning Engineer*  
-***🧠 I turn models into usable software ⚙️***
+***I turn models into usable software ***⚙️
  
 🎓 <b>M.S. in Machine Learning</b> — 
 <a href="https://www.msoe.edu/">Milwaukee School of Engineering (MSOE)</a>
