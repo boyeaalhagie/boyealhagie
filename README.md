@@ -13,6 +13,7 @@
  
 🧑‍💼 Masters Student @ MSOE | prev intern @ City of Milwaukee, Africell Group, The Spanish Journal 
 
+**[boyealhagie.com](https://boyealhagie.com/)** — portfolio, projects, and technical writeups
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
