@@ -39,33 +39,32 @@
 
 
 ## Projects
-- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI that automatically saves job descriptions after you apply
-- 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - AI-powered platform expanding museum accessibility through multilingual guided experiences.
-- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - Domain-specific AI coding assistant for CS students using curated knowledge bases.
-- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - Browser-based AI assistant using lightweight models and RAG for scalable visitor engagement.
-- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** *(proprietory)* - Evaluating grayscale-trained vision transformers on color-rich medical imaging tasks.
-- 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - Turns natural-language requests into schema-validated JSON to render deterministic dashboards and operational workflows.
-- 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - Autonomous manufacturing QA assistant that detects defects and recommends corrective actions using computer vision + AI reasoning.
-- 🤖 **[From-Scratch-Transformer](https://github.com/boyeaalhagie/From-Scratch-Transformer)** - Transformer architecture implemented manually to understand attention and inference mechanics.
-- 🧬 **[MicroGPT](https://github.com/boyeaalhagie/MicroGPT)** - Minimal dependency-free GPT training and inference implementation adapted to study core LLM algorithms.
-- 🕸️ **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Knowledge-graph based note and memory system for relationship-aware information retrieval.
-- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - Long-term AI memory and reasoning system for persistent contextual retrieval across sessions.
-- 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - AI workforce intelligence platform that analyzes resumes and job descriptions to extract skills and identify gaps.
-- 🏭 **[Tensile Strength Predictor (For Scotforge)](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - Predicting tensile test outcomes using machine learning on industrial heat-treatment data.
-- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/dave-ai)** *(proprietary)* - RAG-powered AI assistant for CPA Q&A and financial content generation for Juno (formerly TruePrep) CEO David Haase.
-- 🧠 **[AI Personal Memory Bank](https://github.com/boyeaalhagie/AI-Personal-Memory-Bank)** - Structured memory storage and retrieval system for conversational AI agents.
-- 🌐 **[Browser-Agent](https://github.com/boyeaalhagie/Browser-Agent)** - Runs autonomous AI agents directly inside the browser environment.
-- 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - Demonstrates an AI agent filling out application forms automatically using multimodal reasoning.
-- 🧪 **[RoboSandbox](https://github.com/boyeaalhagie/RoboSandbox)** - Simulation environment for experimenting with reinforcement learning, control, and vision-language agents.
-- ⚽ **[DBN EPL Prediction](https://github.com/boyeaalhagie/AI-Final-Project---DBN-For-EPL-Winner-Prediction)** - Dynamic Bayesian Network model predicting English Premier League champions.
-- 🚀 **[NASA Space Apps Challenge Project](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - Data analysis and modeling project built during NASA Space Apps hackathon.
-- 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for emergency dispatch classification
-- 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN-based system recognizing handwritten Japanese characters from image data.
-- ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Bellman Ford Algorithm for optimizing flight routes using shortest-path algorithms.
-- 🔍 **[Social Network Friend Finder via BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - Using a breadth‑first search on a social graph to recommend friends based on degrees of separation.
-- 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - Data science techniques to conduct an in-depth analysis of bird species by categorizing them into six ecological groups
-- 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - A CNN‑based system to detect deepfake videos using visual feature analysis accelerated by ROSIE.
-- 👀 **[Observer Pattern](https://github.com/boyeaalhagie/Milwaukee-tour)** - A travel game using the Observer Pattern, drawing cars, buses, and a person moving on a map, where contact triggers license-plate letter matching to keywords
+- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that remembers every job you applied to
+- 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - multilingual AI museum guide for accessible tours
+- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material
+- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser
+- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** *(proprietory)* - testing vision transformers on medical imaging.
+- 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - natural language → structured UI workflows.
+- 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
+- 🤖 **[From-Scratch-Transformer](https://github.com/boyeaalhagie/From-Scratch-Transformer)** - transformer implemented manually for learning attention.
+- 🧬 **[MicroGPT](https://github.com/boyeaalhagie/MicroGPT)** - tiny dependency-free GPT training implementation.
+- 🕸️ **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Automatically build knowledge graphs.
+- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
+- 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - analyzes resumes, finds skill gaps and career matching.
+- 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - predicts metal test results from heat-treatment data.
+- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/dave-ai)** *(proprietary)* - CPA knowledge assistant and content generator.
+- 🧠 **[AI Personal Memory Bank](https://github.com/boyeaalhagie/AI-Personal-Memory-Bank)** - AI powered emotion-aware photo management system.
+- 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - agent that fills job applications automatically.
+- 🧪 **[RoboSandbox](https://github.com/boyeaalhagie/RoboSandbox)** - robotics + RL experimentation simulator.
+- ⚽ **[DBN EPL Prediction](https://github.com/boyeaalhagie/AI-Final-Project---DBN-For-EPL-Winner-Prediction)** - predicts Premier League winners using probabilistic models
+- 🚀 **[Exonet](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - detecting exoplanets from astronomical signal data.
+- 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification
+- 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN recognizing handwritten Japanese characters.
+- ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Connecting flight route optimization using Bellman-Ford.
+- 🔍 **[Friend Finder BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - social recommendations via graph traversal.
+- 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - classifies bird species from ecological features.
+- 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - detects manipulated videos using CNNs.
+- 👀 **[Observer Pattern Game](https://github.com/boyeaalhagie/Milwaukee-tour)** - simulation game using observer pattern mechanics.
 
 
 ## Connect
