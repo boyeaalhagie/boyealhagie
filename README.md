@@ -39,6 +39,8 @@
 
 
 ## Projects
+
+AI/ML/DS
 - 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that remembers every job you applied to
 - 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - multilingual AI museum guide for accessible tours
 - 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material
@@ -60,6 +62,8 @@
 - 🚀 **[Exonet](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - detecting exoplanets from astronomical signal data.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification
 - 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN recognizing handwritten Japanese characters.
+
+Others
 - ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Connecting flight route optimization using Bellman-Ford.
 - 🔍 **[Friend Finder BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - social recommendations via graph traversal.
 - 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - classifies bird species from ecological features.
