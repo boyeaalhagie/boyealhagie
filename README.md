@@ -64,7 +64,7 @@ Others
 - 👀 **[Observer Pattern Game](https://github.com/boyeaalhagie/Milwaukee-tour)** - simulation game using observer pattern mechanics.
 - 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - classifies bird species from ecological features.
 - 🧩 **[Wordle Game](https://github.com/boyeaalhagie/Wordle-Game)** - Wordle-style game with variable word length and hint system.
-- 👀 **[MSOE NSBE Website](http://msoe-nsbe.org/)** - Website for MSOE NSBE Chapter.
+- 🌐 **[MSOE NSBE Website](http://msoe-nsbe.org/)** - Website for MSOE NSBE Chapter.
 
 
 ### **Models learn patterns. People live consequences**
