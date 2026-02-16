@@ -1,16 +1,18 @@
 # Hi, I'm Alhagie 👋
 
-Applied AI Engineer & Machine Learning Engineer  
-I build real-world AI systems: assistants, RAG pipelines, and production ML workflows.
+*Applied AI Engineer & Machine Learning Engineer*  
+🧠 **I turn models into usable software** ⚙️
+ 
+🎓 <b>M.S. in Machine Learning</b> — 
+<a href="https://www.msoe.edu/">Milwaukee School of Engineering (MSOE)</a>
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/06/milwaukee-school-of-engineering-logo-msoe-freelogovectors.net_.png" alt="Milwaukee School of Engineering Logo (MSOE)" width="20" align="center" style="vertical-align:middle; margin-left:16px;">
 
-🎓 **M.S. in Machine Learning** — Milwaukee School of Engineering (MSOE) 
-🎓 **M.S. in Machine Learning** — [Milwaukee School of Engineering (MSOE)](https://www.msoe.edu/)  
-<a href="https://www.freelogovectors.net/milwaukee-school-of-engineering-logo-msoe/"><img src="https://www.freelogovectors.net/wp-content/uploads/2022/06/milwaukee-school-of-engineering-logo-msoe-freelogovectors.net_.png" alt="Milwaukee School of Engineering Logo (MSOE)" width="20"></a>
+🎓 <b>B.S. in Computer Science</b> — 
+<a href="https://www.msoe.edu/">Milwaukee School of Engineering (MSOE)</a>
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/06/milwaukee-school-of-engineering-logo-msoe-freelogovectors.net_.png" alt="Milwaukee School of Engineering Logo (MSOE)" width="20" align="center" style="vertical-align:middle; margin-left:16px;">
+ 
+🧑‍💼 Masters Student @ MSOE | prev intern @ City of Milwaukee, Africell Group, The Spanish Journal 
 
-
-🎓 **B.S. in Computer Science** — Milwaukee School of Engineering (MSOE)  
-🏙 AI Development Intern — City of Milwaukee  
-🌍 Based in the U.S. | Originally from The Gambia
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
@@ -32,7 +34,8 @@ I build real-world AI systems: assistants, RAG pipelines, and production ML work
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Projects
-
+https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024
+- 🧠 **[VEA](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - Browser-based AI assistant using lightweight models and retrieval-augmented generation for scalable user interaction.
 - 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - Browser-based AI assistant using lightweight models and retrieval-augmented generation for scalable user interaction.
 - 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - Turns natural-language requests into schema-validated JSON to render deterministic dashboards and operational workflows.
 - 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - Autonomous manufacturing QA assistant that detects defects and recommends corrective actions using computer vision + AI reasoning.
