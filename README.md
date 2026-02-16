@@ -41,34 +41,35 @@
 ## Projects
 
 AI/ML/DS
-- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that remembers every job you applied to
-- 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - multilingual AI museum guide for accessible tours
-- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material
-- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser
-- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** *(proprietory)* - testing vision transformers on medical imaging.
-- 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - natural language → structured UI workflows.
-- 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
-- 🤖 **[From-Scratch-Transformer](https://github.com/boyeaalhagie/From-Scratch-Transformer)** - transformer implemented manually for learning attention.
-- 🧬 **[MicroGPT](https://github.com/boyeaalhagie/MicroGPT)** - tiny dependency-free GPT training implementation.
-- 🕸️ **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Automatically build knowledge graphs.
-- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
+- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that remembers every job you applied to.
 - 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - analyzes resumes, finds skill gaps and career matching.
-- 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - predicts metal test results from heat-treatment data.
+- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
+- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser.
+- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material.
 - 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/dave-ai)** *(proprietary)* - CPA knowledge assistant and content generator.
-- 🧠 **[AI Personal Memory Bank](https://github.com/boyeaalhagie/AI-Personal-Memory-Bank)** - AI powered emotion-aware photo management system.
+- 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification.
+- 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - predicts metal test results from heat-treatment data.
+- 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
+- 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - natural language → structured UI workflows.
 - 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - agent that fills job applications automatically.
+- 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - multilingual AI museum guide for accessible tours.
+- 🧠 **[AI Personal Memory Bank](https://github.com/boyeaalhagie/AI-Personal-Memory-Bank)** - AI powered emotion-aware photo management system.
+- 🕸️ **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Automatically build knowledge graphs.
+- 🧬 **[MicroGPT](https://github.com/boyeaalhagie/MicroGPT)** - tiny dependency-free GPT training implementation.
+- 🤖 **[From-Scratch-Transformer](https://github.com/boyeaalhagie/From-Scratch-Transformer)** - transformer implemented manually for learning attention.
 - 🧪 **[RoboSandbox](https://github.com/boyeaalhagie/RoboSandbox)** - robotics + RL experimentation simulator.
-- ⚽ **[DBN EPL Prediction](https://github.com/boyeaalhagie/AI-Final-Project---DBN-For-EPL-Winner-Prediction)** - predicts Premier League winners using probabilistic models
-- 🚀 **[Exonet](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - detecting exoplanets from astronomical signal data.
-- 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification
+- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** *(proprietory)* - testing vision transformers on medical imaging.
 - 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN recognizing handwritten Japanese characters.
+- 🚀 **[Exonet](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - detecting exoplanets from astronomical signal data.
 - 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - detects manipulated videos using CNNs.
+- ⚽ **[DBN EPL Prediction](https://github.com/boyeaalhagie/AI-Final-Project---DBN-For-EPL-Winner-Prediction)** - predicts Premier League winners using probabilistic models.
 
 Others
 - ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Connecting flight route optimization using Bellman-Ford.
 - 🔍 **[Friend Finder BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - social recommendations via graph traversal.
-- 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - classifies bird species from ecological features.
 - 👀 **[Observer Pattern Game](https://github.com/boyeaalhagie/Milwaukee-tour)** - simulation game using observer pattern mechanics.
+- 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - classifies bird species from ecological features.
+- 🧩 **[Wordle Game](https://github.com/boyeaalhagie/Wordle-Game)** - Wordle-style game with variable word length and hint system.
 - 👀 **[MSOE NSBE Website](http://msoe-nsbe.org/)** - Website for MSOE NSBE Chapter.
 
 
