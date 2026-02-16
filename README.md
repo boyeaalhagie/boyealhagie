@@ -1,6 +1,6 @@
 # Hi, I'm Alhagie 👋
 
-*Applied AI Engineer & Machine Learning Engineer*  
+*Applied AI & Machine Learning Engineer*  
 **I turn models into usable software**
  
 🎓 <b>M.S. in Machine Learning</b> — 
