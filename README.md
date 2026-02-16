@@ -34,22 +34,28 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Projects
-https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024
-- 🧠 **[VEA](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - Browser-based AI assistant using lightweight models and retrieval-augmented generation for scalable user interaction.
-- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - Browser-based AI assistant using lightweight models and retrieval-augmented generation for scalable user interaction.
+
+- 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - AI-powered platform expanding museum accessibility through multilingual guided experiences.
+- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - Domain-specific AI coding assistant for CS students using curated knowledge bases.
+- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - Browser-based AI assistant using lightweight models and RAG for scalable visitor engagement.
+- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** *(proprietory)* - Evaluating grayscale-trained vision transformers on color-rich medical imaging tasks.
 - 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - Turns natural-language requests into schema-validated JSON to render deterministic dashboards and operational workflows.
 - 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - Autonomous manufacturing QA assistant that detects defects and recommends corrective actions using computer vision + AI reasoning.
 - 🤖 **[From-Scratch-Transformer](https://github.com/boyeaalhagie/From-Scratch-Transformer)** - Transformer architecture implemented manually to understand attention and inference mechanics.
 - 🧬 **[MicroGPT](https://github.com/boyeaalhagie/MicroGPT)** - Minimal dependency-free GPT training and inference implementation adapted to study core LLM algorithms.
-- 🧠 **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Knowledge-graph based note and memory system for relationship-aware information retrieval.
-- 🧠 **Cortex** *(private)* - Long-term AI memory and reasoning system for persistent contextual retrieval across sessions.
-- 🧑‍💼 **CareerMap MKE** *(private)* - AI workforce intelligence platform that analyzes resumes and job descriptions to extract skills and identify gaps.
+- 🕸️ **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Knowledge-graph based note and memory system for relationship-aware information retrieval.
+- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - Long-term AI memory and reasoning system for persistent contextual retrieval across sessions.
+- 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - AI workforce intelligence platform that analyzes resumes and job descriptions to extract skills and identify gaps.
+- 🏭 **[Tensile Strength Predictor (For Scotforge)](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - Predicting tensile test outcomes using machine learning on industrial heat-treatment data.
+- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/dave-ai)** *(proprietary)* - RAG-powered AI assistant for CPA Q&A and financial content generation for Juno (formerly TruePrep) CEO David Haase.
 - 🧠 **[AI Personal Memory Bank](https://github.com/boyeaalhagie/AI-Personal-Memory-Bank)** - Structured memory storage and retrieval system for conversational AI agents.
 - 🌐 **[Browser-Agent](https://github.com/boyeaalhagie/Browser-Agent)** - Runs autonomous AI agents directly inside the browser environment.
 - 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - Demonstrates an AI agent filling out application forms automatically using multimodal reasoning.
 - 🧪 **[RoboSandbox](https://github.com/boyeaalhagie/RoboSandbox)** - Simulation environment for experimenting with reinforcement learning, control, and vision-language agents.
 - ⚽ **[DBN EPL Prediction](https://github.com/boyeaalhagie/AI-Final-Project---DBN-For-EPL-Winner-Prediction)** - Dynamic Bayesian Network model predicting English Premier League champions.
 - 🚀 **[NASA Space Apps Challenge Project](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - Data analysis and modeling project built during NASA Space Apps hackathon.
+- 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for emergency dispatch classification
+- 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN-based system recognizing handwritten Japanese characters from image data.
 
 ## Connect
 
