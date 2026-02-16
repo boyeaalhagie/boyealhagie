@@ -39,7 +39,7 @@
 
 
 ## Projects
-
+- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI that automatically saves job descriptions after you apply
 - 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - AI-powered platform expanding museum accessibility through multilingual guided experiences.
 - 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - Domain-specific AI coding assistant for CS students using curated knowledge bases.
 - 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - Browser-based AI assistant using lightweight models and RAG for scalable visitor engagement.
