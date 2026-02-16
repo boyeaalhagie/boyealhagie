@@ -1,7 +1,9 @@
 # Hi, I'm Alhagie 👋
 
 *Applied AI Engineer & Machine Learning Engineer*  
-🧠 **I turn models into usable software** ⚙️
+**Models learn patterns. People live consequences**
+
+***🧠 I turn models into usable software ⚙️***
  
 🎓 <b>M.S. in Machine Learning</b> — 
 <a href="https://www.msoe.edu/">Milwaukee School of Engineering (MSOE)</a>
@@ -16,23 +18,25 @@
 **[boyealhagie.com](https://boyealhagie.com/)** — portfolio, projects, and technical writeups
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![LLM_Systems](https://img.shields.io/badge/-LLM_Systems-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
+![AI_Agents](https://img.shields.io/badge/-AI_Agents-1E3A8A?style=flat-square)
+![Transformers](https://img.shields.io/badge/-Transformers-FFCC4D?style=flat-square)
+![FAISS_Vector_Search](https://img.shields.io/badge/-FAISS_Vector_Search-0467DF?style=flat-square)
+![LLM_Guardrails_&_Safety](https://img.shields.io/badge/-LLM_Guardrails_&_Safety-6B46C1?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Delta Lake](https://img.shields.io/badge/-Delta_Lake-0A0A0A?style=flat-square)
-![Vector DB](https://img.shields.io/badge/-Vector_Database-4B8BBE?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLM_Systems-000000?style=flat-square)
-![Agents](https://img.shields.io/badge/-AI_Agents-1E3A8A?style=flat-square)
-![Embeddings](https://img.shields.io/badge/-Embeddings-5A67D8?style=flat-square)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-4CAF50?style=flat-square)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta_Lake](https://img.shields.io/badge/-Delta_Lake-0A0A0A?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ## Projects
 
@@ -63,7 +67,6 @@
 - 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - A CNN‑based system to detect deepfake videos using visual feature analysis accelerated by ROSIE.
 - 👀 **[Observer Pattern](https://github.com/boyeaalhagie/Milwaukee-tour)** - A travel game using the Observer Pattern, drawing cars, buses, and a person moving on a map, where contact triggers license-plate letter matching to keywords
 
-### **"Models learn patterns. People live consequences."**
 
 ## Connect
 
