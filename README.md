@@ -62,13 +62,14 @@ AI/ML/DS
 - 🚀 **[Exonet](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - detecting exoplanets from astronomical signal data.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification
 - 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN recognizing handwritten Japanese characters.
+- 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - detects manipulated videos using CNNs.
 
 Others
 - ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Connecting flight route optimization using Bellman-Ford.
 - 🔍 **[Friend Finder BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - social recommendations via graph traversal.
 - 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - classifies bird species from ecological features.
-- 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - detects manipulated videos using CNNs.
 - 👀 **[Observer Pattern Game](https://github.com/boyeaalhagie/Milwaukee-tour)** - simulation game using observer pattern mechanics.
+- 👀 **[MSOE NSBE Website](http://msoe-nsbe.org/)** - Website for MSOE NSBE Chapter.
 
 
 ## Connect
