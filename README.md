@@ -3,7 +3,12 @@
 Applied AI Engineer & Machine Learning Engineer  
 I build real-world AI systems: assistants, RAG pipelines, and production ML workflows.
 
-🎓 M.S. in Machine Learning — Milwaukee School of Engineering (MSOE)  
+🎓 **M.S. in Machine Learning** — Milwaukee School of Engineering (MSOE) 
+🎓 **M.S. in Machine Learning** — [Milwaukee School of Engineering (MSOE)](https://www.msoe.edu/)  
+<a href="https://www.freelogovectors.net/milwaukee-school-of-engineering-logo-msoe/"><img src="https://www.freelogovectors.net/wp-content/uploads/2022/06/milwaukee-school-of-engineering-logo-msoe-freelogovectors.net_.png" alt="Milwaukee School of Engineering Logo (MSOE)" width="20"></a>
+
+
+🎓 **B.S. in Computer Science** — Milwaukee School of Engineering (MSOE)  
 🏙 AI Development Intern — City of Milwaukee  
 🌍 Based in the U.S. | Originally from The Gambia
 
