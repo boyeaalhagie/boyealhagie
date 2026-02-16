@@ -68,6 +68,6 @@
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://boyealhagie.com)
-[![LinkedIn](https://img.shields.io/badge/-Alhagie_Boye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyealhagie)
+[![LinkedIn](https://img.shields.io/badge/-Alhagie_Boye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhagie-a-boye)
 [![Email](https://img.shields.io/badge/-boyea@msoe.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:boyea@msoe.edu)
 [![GitHub](https://img.shields.io/badge/-@boyeaalhagie-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/boyeaalhagie)
