@@ -56,6 +56,8 @@
 - 🚀 **[NASA Space Apps Challenge Project](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - Data analysis and modeling project built during NASA Space Apps hackathon.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for emergency dispatch classification
 - 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN-based system recognizing handwritten Japanese characters from image data.
+- ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Bellman Ford Algorithm for optimizing flight routes using shortest-path algorithms.
+- - ✈️ **[Social Network Friend Finder via BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - Using a breadth‑first search on a social graph to recommend friends based on degrees of separation.
 
 ## Connect
 
