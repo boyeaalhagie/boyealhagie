@@ -37,7 +37,7 @@
 ## Projects
 
 AI/ML/DS
-- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that remembers every job you applied to.
+- 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that saves job descriptions after you apply.
 - 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - analyzes resumes, finds skill gaps and career matching.
 - 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
 - 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser.
