@@ -1,8 +1,6 @@
 # Hi, I'm Alhagie 👋
 
 *Applied AI Engineer & Machine Learning Engineer*  
-**Models learn patterns. People live consequences**
-
 ***🧠 I turn models into usable software ⚙️***
  
 🎓 <b>M.S. in Machine Learning</b> — 
@@ -68,6 +66,8 @@ Others
 - 🧩 **[Wordle Game](https://github.com/boyeaalhagie/Wordle-Game)** - Wordle-style game with variable word length and hint system.
 - 👀 **[MSOE NSBE Website](http://msoe-nsbe.org/)** - Website for MSOE NSBE Chapter.
 
+
+##**Models learn patterns. People live consequences**
 
 ## Connect
 
