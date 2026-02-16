@@ -57,7 +57,10 @@
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for emergency dispatch classification
 - 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN-based system recognizing handwritten Japanese characters from image data.
 - ✈️ **[Shortest Flight Path](https://github.com/boyeaalhagie/BELLMAN-FORD-ALGORITHM)** - Bellman Ford Algorithm for optimizing flight routes using shortest-path algorithms.
-- - ✈️ **[Social Network Friend Finder via BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - Using a breadth‑first search on a social graph to recommend friends based on degrees of separation.
+- 🔍 **[Social Network Friend Finder via BFS](https://github.com/boyeaalhagie/BFS-Friend_Recommendation)** - Using a breadth‑first search on a social graph to recommend friends based on degrees of separation.
+- 🦆 **[Bird Classification](https://github.com/boyeaalhagie/Bird-Classification)** - Using data science techniques to conduct an in-depth analysis of bird species by categorizing them into six ecological groups
+- 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - CNN‑based system to detect deepfake videos using visual feature analysis accelerated by ROSIE.
+- 👀 **[Observer Pattern](https://github.com/boyeaalhagie/Milwaukee-tour)** - Implement a travel game using the Observer Pattern, drawing cars, buses, and a person moving on a map, where contact triggers license-plate letter matching to keywords
 
 ## Connect
 
