@@ -46,7 +46,7 @@ AI/ML/DS
 - 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
 - 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser.
 - 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material.
-- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/dave-ai)** *(proprietary)* - CPA knowledge assistant and content generator.
+- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/virtual-dave)** *(proprietary)* - CPA knowledge assistant and content generator.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification.
 - 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - predicts metal test results from heat-treatment data.
 - 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
