@@ -38,12 +38,12 @@ AI/ML/DS
 - 🦞 **[OpenClaw Job Vault]()** *(in progress)*  - AI agent that saves job postings after you apply to them.
 - 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - analyzes resumes, finds skill gaps and career matching.
 - 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
-- 🧠 **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser.
+- ☁️ **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser.
 - 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material.
 - 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/virtual-dave)** *(proprietary)* - CPA knowledge assistant and content generator.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification.
 - 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - predicts metal test results from heat-treatment data.
-- 🏭 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
+- 🔍 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
 - 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - natural language → structured UI workflows.
 - 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - agent that fills job applications automatically.
 - 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - multilingual AI museum guide for accessible tours.
