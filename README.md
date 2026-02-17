@@ -36,7 +36,7 @@
 
 AI/ML/DS
 - 🦞 **[OpenClaw Job Vault](https://github.com/boyeaalhagie/openclaw_job_vault)** - AI agent that saves job postings as PDFs and tracks them in a CSV.
-- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** - AI powered smart 311 triage and response copilot.
+- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in development)* - AI powered smart 311 triage and response copilot.
 - 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** - coding tutor trained on CS course material.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification.
 - 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** - analyzes resumes, finds skill gaps and career matching.
@@ -52,7 +52,7 @@ AI/ML/DS
 - 🧬 **[MicroGPT](https://github.com/boyeaalhagie/MicroGPT)** - tiny dependency-free GPT training implementation.
 - 🤖 **[From-Scratch-Transformer](https://github.com/boyeaalhagie/From-Scratch-Transformer)** - transformer implemented manually for learning attention.
 - 🧪 **[RoboSandbox](https://github.com/boyeaalhagie/RoboSandbox)** - robotics + RL experimentation simulator.
-- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** *(proprietory)* - testing vision transformers on medical imaging.
+- 🧬 **[Beyond Boundaries](https://boyealhagie.com/projects/beyond-boundaries)** - testing vision transformers on medical imaging.
 - 👁️ **[Japanese Character Recognition](https://github.com/boyeaalhagie/Japanese-Character-Recognition)** - CNN recognizing handwritten Japanese characters.
 - 🚀 **[Exonet](https://github.com/boyeaalhagie/NASA-Space-App-Challenge-2025)** - detecting exoplanets from astronomical signal data.
 - 🎭 **[Deepfake Detection](https://github.com/boyeaalhagie/ai-tools-final-project)** - detects manipulated videos using CNNs.
