@@ -36,13 +36,13 @@
 
 AI/ML/DS
 - 🦞 **[OpenClaw Job Vault](https://github.com/boyeaalhagie/openclaw_job_vault)** - AI agent that saves job postings as PDFs and tracks them in a CSV.
-- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** *(in progress)* - AI powered smart 311 triage and response copilot.
-- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** *(proprietory)* - coding tutor trained on CS course material.
+- 🧠 **[Cortex](https://boyealhagie.com/projects/cortex)** - AI powered smart 311 triage and response copilot.
+- 🤖 **[Intelliassistant](https://boyealhagie.com/projects/intelliassistant)** - coding tutor trained on CS course material.
 - 🏗️ **[Databricks Lakehouse](https://boyealhagie.com/projects/databricks-lakehouse)** - End-to-end Databricks lakehouse pipeline for dispatch classification.
-- 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** *(proprietary)* - analyzes resumes, finds skill gaps and career matching.
+- 🏛️ **[CareerMap MKE](https://boyealhagie.com/projects/careermap)** - analyzes resumes, finds skill gaps and career matching.
 - ⚡ **[VEA](https://github.com/boyeaalhagie/VEA)** - serverless RAG assistant running entirely in the browser.
-- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/virtual-dave)** *(proprietary)* - CPA knowledge assistant and content generator.
-- 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** *(proprietary)* - predicts metal test results from heat-treatment data.
+- 🧑‍💼 **[Virtual Dave](https://boyealhagie.com/projects/virtual-dave)** - CPA knowledge assistant and content generator.
+- 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** - predicts metal test results from heat-treatment data.
 - 🔍 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
 - 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - natural language → structured UI workflows.
 - 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - agent that fills job applications automatically.
