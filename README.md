@@ -45,7 +45,6 @@ AI/ML/DS
 - 🏭 **[Tensile Strength Predictor](https://boyealhagie.com/projects/scotforge)** - predicts metal test results from heat-treatment data.
 - 🔍 **[FlawFinder](https://github.com/boyeaalhagie/Flaw-Finders-Innovation-Lab-2025-Team12-Alhagie)** - AI that detects manufacturing defects and suggests fixes.
 - 🧩 **[Schema-Driven-AI-Automation-System](https://github.com/boyeaalhagie/Schema-Driven-AI-Automation-System---UI-Renderer)** - natural language → structured UI workflows.
-- 🤖 **[Auto-Apply](https://github.com/boyeaalhagie/Auto-Apply)** - agent that fills job applications automatically.
 - 🖼️ **[Discover Mate](https://github.com/boyeaalhagie/Discovery-Mate-hacksgiving-2024)** - multilingual AI museum guide for accessible tours.
 - 🧠 **[AI Personal Memory Bank](https://github.com/boyeaalhagie/AI-Personal-Memory-Bank)** - AI powered emotion-aware photo management system.
 - 🕸️ **[GraphNotes](https://github.com/boyeaalhagie/GraphNotes)** - Automatically build knowledge graphs.
